@@ -1,2 +1,10 @@
-Enter your answers to homework 1 in this file, one answer per line.  Make
-sure to remove this text before submitting your answers.
+1. 145.254.160.237,65.208.228.223,216.239.59.99,192.168.1.141,76.74.254.125
+2. www.ethereal.com
+3. 192.168.0.2,192.168.0.1
+4. user
+5. Sat Nov 27
+6. /sbin/ping www.yahoo.com,ls,ls -a,exit
+7. ...edmond
+8. cs.uic.edu
+9. ls,echo, echo, exit
+10. 131.193.34.202,100,/xampp/index.php,131.193.34.202,100,/xampp/head.php
