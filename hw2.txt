@@ -6,5 +6,5 @@
 6. /sbin/ping www.yahoo.com,ls,ls -a,exit
 7. ...edmond
 8. cs.uic.edu
-9. ls,echo, echo, exit
+9. ls,echo,ping,echo, exit
 10. 131.193.34.202,100,/xampp/index.php,131.193.34.202,100,/xampp/head.php
